@@ -1,5 +1,5 @@
 #!/bin/bash
-
+"Vou ter muito sucesso na programação!"
 xcowsay  --at=400,250 "Menu para scripts do Projeto de Shell Script "
 
 xcowsay --at=400,250 $'Opções de menu\n1) Fazer download das informações de um domínio.\n2) Enviar mensagens para o Slack a partir da shell.\n3) Estimar o tempo de leitura de um arquivo texto.\n4) Frases da vaquinha do Shell.\n5) Sair do menu.'
